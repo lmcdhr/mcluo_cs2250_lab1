@@ -1,4 +1,4 @@
-#  Lab 1 Operating System
+#  Lab 1 Operating System: Linker
 
 #### Author: Mucheng Luo (ml6389)
 
