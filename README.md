@@ -107,7 +107,7 @@ the main body of the project, will process two passes and output the result
 3. run the main(please use your own path)
 
    ```
-   ./run home/sample2/input-3
+   ./main home/sample2/input-3
    ```
 
 4. clean the make
