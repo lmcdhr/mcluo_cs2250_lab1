@@ -1,5 +1,6 @@
-#  Lab 1 Operating System
+#  Lab 1 Operating System: Linker
 
+#### NYU CSCI 2250
 #### Author: Mucheng Luo (ml6389)
 
 
